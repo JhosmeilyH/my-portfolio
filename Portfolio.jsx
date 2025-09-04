@@ -209,14 +209,6 @@ export default function Portfolio() {
               documentation, and customer support from IT roles.
             </p>
           </div>
-          <div className="rounded-2xl border border-white/10 p-4">
-            <h3 className="mb-2 text-sm font-semibold text-neutral-200">Highlights</h3>
-            <ul className="list-inside list-disc space-y-1 text-sm text-neutral-300">
-              <li>Built multiplayer word game (esTAP) with real-time play</li>
-              <li>Deployed projects on AWS & Vercel</li>
-              <li>Practice-first, detail‑oriented and user‑centric</li>
-            </ul>
-          </div>
         </motion.div>
       </section>
 
