@@ -1,12 +1,18 @@
-# React + Vite
+Jhosmeily Hernandez – Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is my personal portfolio website built with React + Vite and deployed on Netlify. It highlights my projects, skills, and experience as I pursue opportunities in IT support and data analytics.
 
-Currently, two official plugins are available:
+🌐 Live Site: my-portfolio.netlify.app
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🚀 Features
+Clean, responsive design
+Sections for About Me, Skills, and Projects
+Downloadable resume
+Interactive animations (Framer Motion)
+Contact links (LinkedIn, GitHub, Email)
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🛠 Tech Stack
+React + Vite (frontend framework + build tool)
+CSS / Tailwind (if you’re using it)
+Framer Motion for animations
+Netlify for deployment
