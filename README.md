@@ -2,7 +2,7 @@ Jhosmeily Hernandez – Portfolio
 
 This is my personal portfolio website built with React + Vite and deployed on Netlify. It highlights my projects, skills, and experience as I pursue opportunities in IT support and data analytics.
 
-🌐 Live Site: my-portfolio.netlify.app
+🌐 Live Site: https://shimmering-tanuki-3170fa.netlify.app
 
 🚀 Features
 Clean, responsive design
